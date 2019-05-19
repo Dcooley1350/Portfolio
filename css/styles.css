@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(255, 162, 176)
+  background-color: rgb(255, 193, 202)
 }
 .jumbotron {
   background-color: rgb(116, 250, 243);
@@ -9,8 +9,8 @@ body {
   text-align: left
 }
 .profile {
-  float: left;
-  size: 30%;
+  float: right;
+  width: 30%;
   padding: 4px;
 }
 h1 {
