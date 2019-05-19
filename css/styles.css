@@ -17,5 +17,18 @@ h1 {
   font-weight: Bold;
   color: black;
   text-align: center;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.stoked {
+  color: rgb(35, 211, 35);
+  font-style: bold;
+}
+.cupcake {
+  color: plum
+}
+.Luna {
+  color: darkblue
+}
+.Animalshelter {
+  color: darkred
 }
