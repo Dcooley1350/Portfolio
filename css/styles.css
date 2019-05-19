@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(255, 162, 176)
+}
+.jumbotron {
+  background-color: rgb(116, 250, 243);
+  text-align: center;
+}
+.jumbotron p {
+  text-align: left
+}
+.profile {
+  float: left;
+  size: 30%
+}
+h1 {
+  font-weight: Bold;
+  color: black;
+  text-align: center;
+}
